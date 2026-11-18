@@ -1,0 +1,19 @@
+packages/taro-framework-react/src/runtime/react-meta.ts
+  s_316c459ec754a7::t_f8d8b18537a478 10-17,21-22
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "72955ac8902f1d5bcadb7e2ab015cf67e640dbc1",
+  "prompts": {},
+  "sessions": {
+    "s_316c459ec754a7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "af7a915c-48f0-44dd-9ba7-804a816061f9",
+        "model": "unknown"
+      },
+      "human_author": "许文涛 <alvin.hui@qq.com>"
+    }
+  }
+}
